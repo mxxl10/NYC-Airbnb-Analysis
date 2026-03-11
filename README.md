@@ -17,6 +17,3 @@ The dataset was taken from [Kaggle](https://www.kaggle.com/datasets/dgomonov/new
 - Seaborn / Matplotlib
 - Plotly Express
 - Jupyter Notebook
-
-## Goal
-To practice EDA and build a starting point for a freelancing portfolio.
